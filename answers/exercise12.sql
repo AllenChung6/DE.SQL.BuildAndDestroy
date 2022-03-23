@@ -1,0 +1,1 @@
+ALTER table Users CHANGE MiddleName Initial VARCHAR (64);
